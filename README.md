@@ -58,8 +58,7 @@ makefile
 Copy code
 Input: 12 + 8
 Output: 20
-📃 License
-This project is open source and available under the MIT License.
+
 
 🙌 Acknowledgments
 Inspired by various online tutorials and web development learning resources.
